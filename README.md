@@ -7,7 +7,7 @@ download-and-watch is a bash script that watches for a folder changes and thus d
 [Git](https://github.com/) clone this repo to install download-and-watch.
 
 ```bash
-pip install foobar
+git clone https://github.com/sini6a/download-and-watch.git
 ```
 
 ## Usage
